@@ -1,0 +1,1 @@
+For Assignment #3 for PUI, I worked on the Bun Bun Bakery Shop to build the website for them. Right now the pages I have built out is the homepage, the "About Us" page, the menu page (for browsing), the product information page (for the Pumpkin Spice Cinnamon Roll), and for the Contact Us page.
